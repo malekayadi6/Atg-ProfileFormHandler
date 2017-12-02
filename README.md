@@ -26,7 +26,7 @@ Note : I have used OOB droplet to display data from repository, RespositoryFormH
 
 - The mail functionality works if you update License Item information (same implementation of the other items), to use this foctionalite:
 you should disable firewall on your system (machine in with your test this application) add your email and password to this file `SMTPEmail.properties` in this directory `config/atg/dynamo/service/SMTPEmail.properties` and lower the security of your mail account so that the mail will be automatically send. 
-Notice that the mail will be sent to my address "bssmahdi@gmail.com".
+Notice that the mail will be sent to my address "malek.ayadi91@gmail.com".
 - For Database generation, you should open this page `CDGeneratorBD.jsp` which contain a Custom Droplet that generate random elements in our database.
 
 ## Installation
